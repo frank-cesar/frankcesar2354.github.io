@@ -1,0 +1,9 @@
+    contact
+display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 120px;
+    background: #DE423A;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
